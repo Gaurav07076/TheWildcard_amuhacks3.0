@@ -90,7 +90,7 @@ The patient-to-doctor ratio in India is highly variable and the need for skills 
 
 - [Gaurav Verma](https://github.com/Gaurav07076/)
 - [Samyak Swaroop Mishra](https://github.com/samyak269)
-- [Prithwiraj Alok Ranjan](https://github.com/15Alok2001)
+- [Alok Ranjan](https://github.com/15Alok2001)
 
 
 
